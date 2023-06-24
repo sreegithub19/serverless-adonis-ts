@@ -41,6 +41,7 @@ Steps to install and run:
 - cd serverless-adonis
 - npm install
 - npm run serve:dev (http://localhost:8080/)
+- (to build): tsc server.ts
 
 Git:
 
