@@ -39,6 +39,7 @@ Steps to install and run:
 - npm i -g @adonisjs/cli
 - adonis new serverless-adonis
 - cd serverless-adonis
+- npm set strict-ssl false
 - npm install
 - npm run serve:dev (http://localhost:8080/)
 - (to build): tsc server.ts
